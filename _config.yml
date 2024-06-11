@@ -1,7 +1,22 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
 
+# personal gibberish
 title: "Aditya Somasundaram's website"
-
 descripition: Listen to the rant of Aditya Somasundaram.
-
 author: Aditya Somasundaram
+
+# links to stuff
+navbar-links:
+  About Me: "about"
+  Publications: "pubs"
+  Current Work: "rant"
+
+navbar-col: "#99cbe8"
+navbar-text-col: "#3e6fb6"
+navbar-children-col: "#a8eff0"
+page-col: "#f0f7f7"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#99cbe8"
+footer-text-col: "#3e6fb6"
+footer-link-col: "#404040"
