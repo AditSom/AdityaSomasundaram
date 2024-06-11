@@ -4,7 +4,9 @@ permalink: /pubs/
 title:
 ---
 
-<center> My Publications </center> 
+<center>
+        <font size="7">My Publications</font>
+    </center>
 
 Feel free to refer my [Google Scholar Profile](https://scholar.google.com/citations?user=wvh68FUAAAAJ&hl=en) as well!
 
