@@ -15,4 +15,4 @@ Feel free to refer my [Google Scholar Profile](https://scholar.google.com/citati
    **A Somasundaram**, P Mishra, A Borthakur
    
 
-I've also submitted papers to NeurIPS '24! Fingers crossed!
+I've also submitted a paper to NeurIPS '24! Fingers crossed!
