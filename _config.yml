@@ -29,7 +29,7 @@ social-network-links:
   email: "aditsom7@gmail.com"
   google-scholar: citations?user=wvh68FUAAAAJ&hl=en
 
-url-pretty: "Feel free to reach out to me at aditsom7[at]gmail[dot]com"
+# url-pretty: 
 
 # Truncates the excerpt to the specified number of words on the index page
 excerpt_length: 50
