@@ -11,6 +11,8 @@ navbar-links:
   Publications: "pubs"
   Current Work: "rant"
 
+title-img: "https://aditsom.github.io/AdityaSomasundaram/assets/img/dp-circle.png"
+
 # nav properties
 navbar-col: "#99cbe8"
 navbar-text-col: "#3e6fb6"
