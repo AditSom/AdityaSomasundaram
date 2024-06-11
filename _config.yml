@@ -26,8 +26,10 @@ footer-link-col: "#404040"
 
 # social network links
 social-network-links:
-  # email: "aditsom7@gmail.com"
+  email: "aditsom7@gmail.com"
   google-scholar: citations?user=wvh68FUAAAAJ&hl=en
+
+url-pretty: "Feel free to reach out to me at aditsom7[at]gmail[dot]com"
 
 # Truncates the excerpt to the specified number of words on the index page
 excerpt_length: 50
