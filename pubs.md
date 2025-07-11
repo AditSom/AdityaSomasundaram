@@ -15,6 +15,5 @@ Feel free to refer my [Google Scholar Profile](https://scholar.google.com/citati
    [[Poster]](https://drive.google.com/file/d/1MGvw7TpTwyrQAKBt2wryS2ekToxdcQx5/view) Best poster award @ [15<sup>th</sup> Annual Machine Learning Symposium](https://events.nyas.org/event/23384180-ad97-4cad-baee-adae8e260c89/summary) at the [New York Academy of Sciences](https://www.nyas.org/)
    
 
-3. **Introducing a Radial Transform and its Application in Video Compression** (submitted to IEEE Signal Processing Letters, under review) <br />
-   **A Somasundaram**, V Kothamasu
-
+2. [**Small Batch Size Training for Language Models: When Vanilla SGD Works, and Why Gradient Accumulation Is Wasteful**](https://arxiv.org/abs/2507.07101) <br />
+   Martin Marek, Sanae Lotfi, **Aditya Somasundaram**, Andrew Gordon Wilson, Micah Goldblum (under Review)
